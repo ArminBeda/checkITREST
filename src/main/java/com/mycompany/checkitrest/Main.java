@@ -22,8 +22,7 @@ import java.io.InputStreamReader;
  * passend zum Webservice angelegt wurden.
  */
 public class Main {
-    
-    //Testcomment
+
 
     static BufferedReader fromKeyboard = new BufferedReader(new InputStreamReader(System.in));
     static ProjectResource projectResource = new ProjectResource();
